@@ -20,7 +20,10 @@ Here are some ideas to get you started:
 🌱 I’m currently learning ...
 - Javascript
 - Typescript
-- Rust
-- Substrate
+- React.js
+- Next.js
+- Node.js
 
 🔭 I’m currently working on ...
+- ⚡ [Next.js Template](https://github.com/jazicorn/template-nextjs-full-user)
+- :monkey_face: [Pokemart](https://github.com/jazicorn/pokemart)
