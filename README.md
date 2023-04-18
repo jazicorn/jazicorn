@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - Node.js
 
 🔭 I’m currently working on ...
-- ⚡ [re-code](https://github.com/jazicorn/re-code)
+- ⚡ [re-Code](https://github.com/jazicorn/re-code)
 - :monkey_face: [Pokemart](https://github.com/jazicorn/pokemart)
