@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - Node.js
 
 🔭 I’m currently working on ...
-- ⚡ [Next.js Template](https://github.com/jazicorn/template-nextjs-full-user)
+- ⚡ [re-code](https://github.com/jazicorn/re-code)
 - :monkey_face: [Pokemart](https://github.com/jazicorn/pokemart)
