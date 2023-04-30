@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Learning Programming One Step At A Time...
-
 <!--
 **jazicorn/jazicorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,6 +21,7 @@ Here are some ideas to get you started:
 - React.js
 - Next.js
 - Node.js
+- ServiceNow App Development
 
 🔭 I’m currently working on ...
 - ⚡ [re-Code](https://github.com/jazicorn/re-code)
