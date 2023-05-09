@@ -24,5 +24,4 @@ Here are some ideas to get you started:
 - ServiceNow App Development
 
 🔭 I’m currently working on ...
-- ⚡ [re-Code](https://github.com/jazicorn/re-code)
-- :monkey_face: [Pokemart](https://github.com/jazicorn/pokemart)
+- 📘 [sn-glossary](https://github.com/jazicorn/en-glossary)
