@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - ServiceNow App Development
 
 🔭 I’m currently working on ...
-- 📘 [sn-glossary](https://github.com/jazicorn/en-glossary)
+
