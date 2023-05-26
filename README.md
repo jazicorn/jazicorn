@@ -22,6 +22,3 @@ Here are some ideas to get you started:
 - Next.js
 - Node.js
 - ServiceNow App Development
-
-🔭 I’m currently working on ...
-
